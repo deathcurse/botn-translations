@@ -17,7 +17,7 @@ msgstr ""
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
-msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
+msgid "Dies ist meine finale Form, und es fühlt sich großartig an. Außerdem rieche ich großartig!"
 msgstr ""
 
 #. Key:	0061A5124B098F61DE991D81AB884112
